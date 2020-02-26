@@ -1,1 +1,1 @@
-echo "This cool script has a first argument of: $1"
+echo "This NOT cool script has a first argument of: $1"
